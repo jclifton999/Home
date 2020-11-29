@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<fileversions>
+	<file id="130770520029687500-0k3j3176" version="21" path="style/menu.css" />
+	<file id="130770520029843750-4548w8oz" version="21" path="style/ie.css" />
+	<file id="130770520030781250-t0pbk77s" version="1" path="res\class.phpmailer.php" />
+	<file id="130770520030937500-t0pbk77s" version="1" path="res\class.smtp.php" />
+	<file id="130770520031093750-1hs594p0" version="1" path="res\PHPMailerAutoload.php" />
+	<file id="130770532940625000-1hp06x1v" version="2" path="menu/sub.png" />
+	<file id="130770532940781250-54spepa1" version="2" path="menu/sub_h.png" />
+	<file id="130770532940781250-fxrqc0i1" version="2" path="menu/sub_f.png" />
+	<file id="130770532940937500-fxrqc0i1" version="2" path="menu/sub_m.png" />
+	<file id="130770532941093750-p0udq8do" version="2" path="menu/sub_l.png" />
+	<file id="130770532941093750-h5ten2l5" version="2" path="menu/sub_f_h.png" />
+	<file id="130770532941250000-h5ten2l5" version="2" path="menu/sub_m_h.png" />
+	<file id="130770532941250000-9972k7u5" version="2" path="menu/sub_l_h.png" />
+	<file id="130770706102968750-glmp8kn7" version="15" path="videos\001_ReachingTheHighestPeakOfTheDivineRevelation-1-TheVisionOfTheAge_MemConf_2015.webm" />
+	<file id="130770760757812500-h9z61f07" version="11" path="videos\002_ReachingTheHighestPeakOfTheDivineRevelation-2-BecomingGodInLife,Nature,AndExpressionToProduceTheBodyOfChristConsummatingIn..._MemConf_2015.webm" />
+	<file id="130770912750156250-vfc775d6" version="9" path="videos\006_ShepherdingAccordingToGod-2-BecomingOneWithGod,BeingConstitutedWithGod,LivingGod,ExpressingGod,RepresentingGod,AndMinistering..._MemConf_2015.webm" />
+	<file id="130775617326386250-l22kcqc7" version="7" path="videos\001_TheEntireSpeakingOfGodInTheNewTestament_0SFTT02d.wmv" />
+	<file id="130935869977123750-kty6nf00" version="0" path="style\reset.css" />
+	<file id="130935869977280000-c1y7k730" version="0" path="style\print.css" />
+	<file id="130935869977280000-7597i270" version="0" path="style/style.css" />
+	<file id="130935869977436250-7597i270" version="2" path="res/x5settings.js" />
+	<file id="130935869977436250-2ua2v9nl" version="0" path="res\swfobject.js" />
+	<file id="130935869977592500-2ua2v9nl" version="0" path="res\jquery.js" />
+	<file id="130935869977748750-8102tkv4" version="0" path="res\x5engine.js" />
+	<file id="130935869977905000-p693qxe4" version="0" path="res\x5engine.offline.js" />
+	<file id="130935869977905000-zv181q9u" version="0" path="res\x5engine.deferrable.js" />
+	<file id="130935869978061250-zv181q9u" version="2" path="res/x5settings.php" />
+	<file id="130935869978217500-6f080c27" version="0" path="res\imemail.inc.php" />
+	<file id="130935869978373750-c4136v0d" version="0" path="res\x5engine.php" />
+	<file id="130935869978373750-7v14534d" version="0" path="res\expressInstall.swf" />
+	<file id="130935869978530000-7v14534d" version="0" path="res\imVideo.swf" />
+	<file id="130935869978686250-mg14487d" version="0" path="res\imSound.swf" />
+	<file id="130935869978686250-842995o4" version="0" path="res\imsearch.png" />
+	<file id="130935869978842500-842995o4" version="0" path="res\move.png" />
+	<file id="130935869978998750-o82980wm" version="0" path="res\imSwipe.png" />
+	<file id="130935869978998750-2hg07mem" version="0" path="res\date.gif" />
+	<file id="130935869979155000-2hg07mem" version="0" path="res\info.gif" />
+	<file id="130935869979155000-r435gfz8" version="0" path="res\imLoad.gif" />
+	<file id="130935869979311250-r435gfz8" version="0" path="res\imClose.png" />
+	<file id="130935869979467500-39i5esiv" version="0" path="res\imIconMenuLeft.gif" />
+	<file id="130935869979623750-7c41sk12" version="0" path="res\imIconMenuRight.gif" />
+	<file id="130935869979623750-lnk1px41" version="0" path="res\video_thumb.png" />
+	<file id="130935869979780000-lnk1px41" version="0" path="res\separatorh.png" />
+	<file id="130935869979936250-e9k1m371" version="0" path="res\separatorv.png" />
+	<file id="130935869980092500-odn6a1oo" version="0" path="res\imfolder_closed.gif" />
+	<file id="130935869980092500-2om7y5x5" version="0" path="res\imfolder_open.gif" />
+	<file id="130935869980248750-2om7y5x5" version="0" path="res\impage.gif" />
+	<file id="130935869980405000-9z478cf5" version="0" path="res\exclamation.png" />
+	<file id="130935869980405000-31p237ax" version="0" path="res\email_go.png" />
+	<file id="130935869980561250-31p237ax" version="0" path="res\key_go.png" />
+	<file id="130935869980717500-bp522hj9" version="0" path="res\tick.png" />
+	<file id="130935869980717500-47r87z1h" version="0" path="res\l10n.php" />
+	<file id="130935869980873750-47r87z1h" version="0" path="res\l10n.js" />
+	<file id="130935869981030000-d2686m4g" version="0" path="res/access.inc.php" />
+	<file id="130935869981030000-8668598g" version="1" path="style\top.jpg" />
+	<file id="130935869981186250-8668598g" version="1" path="style\bottom.png" />
+	<file id="130935869981342500-2v73d666" version="1" path="style\menu.jpg" />
+	<file id="130935869981498750-9274a19p" version="1" path="style\content.jpg" />
+	<file id="130935869981655000-q6s4x62p" version="1" path="style\bottombg.jpg" />
+	<file id="130935869981811250-aw89l3b9" version="1" path="style\bg.jpg" />
+	<file id="130935869981967500-sgu9jwjz" version="1" path="style\template.css" />
+	<file id="130935874346811250-26ff3g43" version="10" path="videos\001_GoingOnWithTheLordFromTheTabernacleChurchLifeToTheTempleChurchLife_ThanksGivingConference_2015.webm" />
+	<file id="130938195755625000-8c30anp6" version="1" path="menu/index.png" />
+	<file id="130938195755625000-22m65g4a" version="1" path="menu/index_h.png" />
+	<file id="130938195755781250-22m65g4a" version="1" path="menu/index_c.png" />
+	<file id="130938195755937500-y6464770" version="1" path="menu/jonah-micah-nahum-obadiah.png" />
+	<file id="130938195756250000-a351898j" version="1" path="menu/jonah-micah-nahum-obadiah_h.png" />
+	<file id="130938195756406250-77527413" version="1" path="menu/jonah-micah-nahum-obadiah_c.png" />
+	<file id="130938195756562500-dy6731z7" version="1" path="menu/apostles-teaching.png" />
+	<file id="130938195756562500-8i672qis" version="1" path="menu/apostles-teaching_h.png" />
+	<file id="130938195757031250-9z73qv40" version="1" path="menu/apostles-teaching_c.png" />
+	<file id="130938195757187500-qjs3ni7b" version="1" path="menu/ftta-2015-living-in-the-reality-of-the-kingdom-of-god.png" />
+	<file id="130938195757343750-a588ba54" version="1" path="menu/ftta-2015-living-in-the-reality-of-the-kingdom-of-god_h.png" />
+	<file id="130938195757343750-4ku9w024" version="1" path="menu/ftta-2015-living-in-the-reality-of-the-kingdom-of-god_c.png" />
+	<file id="130938195757812500-86w4k7au" version="1" path="menu/ruth-1.png" />
+	<file id="130938195757968750-n0w4hfi7" version="1" path="menu/ruth-1_h.png" />
+	<file id="130938195758125000-f4wnfsr7" version="1" path="menu/ruth-1_c.png" />
+	<file id="130938195758125000-20y06x71" version="1" path="menu/thanksgiving-conferance-2015.png" />
+	<file id="130938195758437500-20y06x71" version="1" path="menu/thanksgiving-conferance-2015_h.png" />
+	<file id="130938195758593750-sgb51p6m" version="1" path="menu/thanksgiving-conferance-2015_c.png" />
+	<page id="0" lastmodified="2015-12-05 14:08:06" path="index.html" upath="index.html" construction="False" />
+	<page id="3" lastmodified="2015-12-05 14:06:16" path="jonah-micah-nahum-obadiah.html" upath="jonah-micah-nahum-obadiah.html" construction="False" />
+	<page id="4" lastmodified="2015-12-06 18:44:00" path="apostles-teaching.html" upath="apostles-teaching.html" construction="False" />
+	<page id="-8" lastmodified="2015-12-05 14:06:16" path="imsitemap.html" upath="imsitemap.html" construction="False" />
+	<page id="-9" lastmodified="2015-12-05 14:06:16" path="imsearch.html" upath="imsearch.php" construction="False" />
+	<page id="6" lastmodified="2015-12-06 18:49:26" path="ftta  2015 living in the reality of the kingdom of god.html" upath="ftta  2015 living in the reality of the kingdom of god.html" construction="False" />
+	<page id="8" lastmodified="2015-12-05 14:06:16" path="ruth.html" upath="ruth.html" construction="False" />
+	<page id="9" lastmodified="2015-12-05 14:06:17" path="thanksgiving conferance 2015.html" upath="thanksgiving conferance 2015.html" construction="False" />
+</fileversions>
